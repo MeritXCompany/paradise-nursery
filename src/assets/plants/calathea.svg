@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+  <title id="title">Calathea Orbifolia illustration</title>
+  <desc id="desc">A stylized botanical illustration of a Calathea Orbifolia houseplant in a sage pot.</desc>
+  <defs>
+    <linearGradient id="potBody" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#aebfa9"/>
+      <stop offset="1" stop-color="#8da08b"/>
+    </linearGradient>
+  </defs>
+  <ellipse cx="400" cy="573" rx="168" ry="20" fill="#1c2b21" opacity=".11"/>
+  
+    <path d="M400 448 Q362 376 318 300" fill="none" stroke="#46745b" stroke-width="6" stroke-linecap="round"/>
+    <path d="M400 448 Q438 378 484 306" fill="none" stroke="#46745b" stroke-width="6" stroke-linecap="round"/>
+    <path d="M400 448 Q390 330 372 214" fill="none" stroke="#46745b" stroke-width="6" stroke-linecap="round"/>
+    <path d="M400 448 Q426 342 444 244" fill="none" stroke="#46745b" stroke-width="6" stroke-linecap="round"/>
+    <g transform="translate(318 302) rotate(-42) scale(0.96)" opacity="1">
+    <path d="M0 0 C-42 -39 -48 -108 0 -166 C48 -108 42 -39 0 0Z" fill="#2f5b46" stroke="#a9cbae" stroke-width="2.2"/>
+    <path d="M0 -8 L0 -150" stroke="#a9cbae" stroke-width="2.5" opacity=".7"/>
+    <path d="M0 -44 C-15 -62 -25 -78 -33 -96 M0 -70 C14 -87 24 -100 32 -114 M0 -98 C-11 -113 -20 -126 -25 -135 M0 -122 C10 -134 17 -143 21 -149" fill="none" stroke="#a9cbae" stroke-width="1.5" stroke-linecap="round" opacity=".45"/>
+    <path d="M-9 -34 C-2 -58 8 -44 4 -24 M-20 -70 C-14 -98 -2 -82 -6 -57 M8 -52 C18 -76 26 -58 21 -36 M-28 -112 C-22 -134 -13 -124 -16 -102 M14 -104 C23 -125 31 -112 27 -90" stroke="#a9cbae" stroke-width="3" fill="none" opacity=".55"/><ellipse cx="-30" cy="-66" rx="9" ry="21" transform="rotate(-24 -30 -66)" fill="#234b38" opacity=".45"/><ellipse cx="30" cy="-92" rx="8" ry="19" transform="rotate(25 30 -92)" fill="#234b38" opacity=".45"/>
+  </g>
+    <g transform="translate(484 308) rotate(42) scale(0.94)" opacity="1">
+    <path d="M0 0 C-42 -39 -48 -108 0 -166 C48 -108 42 -39 0 0Z" fill="#356349" stroke="#a9cbae" stroke-width="2.2"/>
+    <path d="M0 -8 L0 -150" stroke="#a9cbae" stroke-width="2.5" opacity=".7"/>
+    <path d="M0 -44 C-15 -62 -25 -78 -33 -96 M0 -70 C14 -87 24 -100 32 -114 M0 -98 C-11 -113 -20 -126 -25 -135 M0 -122 C10 -134 17 -143 21 -149" fill="none" stroke="#a9cbae" stroke-width="1.5" stroke-linecap="round" opacity=".45"/>
+    <path d="M-9 -34 C-2 -58 8 -44 4 -24 M-20 -70 C-14 -98 -2 -82 -6 -57 M8 -52 C18 -76 26 -58 21 -36 M-28 -112 C-22 -134 -13 -124 -16 -102 M14 -104 C23 -125 31 -112 27 -90" stroke="#a9cbae" stroke-width="3" fill="none" opacity=".55"/><ellipse cx="-30" cy="-66" rx="9" ry="21" transform="rotate(-24 -30 -66)" fill="#234b38" opacity=".45"/><ellipse cx="30" cy="-92" rx="8" ry="19" transform="rotate(25 30 -92)" fill="#234b38" opacity=".45"/>
+  </g>
+    <g transform="translate(372 216) rotate(-24) scale(1.02)" opacity="1">
+    <path d="M0 0 C-42 -39 -48 -108 0 -166 C48 -108 42 -39 0 0Z" fill="#2c5743" stroke="#a9cbae" stroke-width="2.2"/>
+    <path d="M0 -8 L0 -150" stroke="#a9cbae" stroke-width="2.5" opacity=".7"/>
+    <path d="M0 -44 C-15 -62 -25 -78 -33 -96 M0 -70 C14 -87 24 -100 32 -114 M0 -98 C-11 -113 -20 -126 -25 -135 M0 -122 C10 -134 17 -143 21 -149" fill="none" stroke="#a9cbae" stroke-width="1.5" stroke-linecap="round" opacity=".45"/>
+    <path d="M-9 -34 C-2 -58 8 -44 4 -24 M-20 -70 C-14 -98 -2 -82 -6 -57 M8 -52 C18 -76 26 -58 21 -36 M-28 -112 C-22 -134 -13 -124 -16 -102 M14 -104 C23 -125 31 -112 27 -90" stroke="#a9cbae" stroke-width="3" fill="none" opacity=".55"/><ellipse cx="-30" cy="-66" rx="9" ry="21" transform="rotate(-24 -30 -66)" fill="#234b38" opacity=".45"/><ellipse cx="30" cy="-92" rx="8" ry="19" transform="rotate(25 30 -92)" fill="#234b38" opacity=".45"/>
+  </g>
+    <g transform="translate(444 246) rotate(26) scale(0.94)" opacity="1">
+    <path d="M0 0 C-42 -39 -48 -108 0 -166 C48 -108 42 -39 0 0Z" fill="#315e48" stroke="#a9cbae" stroke-width="2.2"/>
+    <path d="M0 -8 L0 -150" stroke="#a9cbae" stroke-width="2.5" opacity=".7"/>
+    <path d="M0 -44 C-15 -62 -25 -78 -33 -96 M0 -70 C14 -87 24 -100 32 -114 M0 -98 C-11 -113 -20 -126 -25 -135 M0 -122 C10 -134 17 -143 21 -149" fill="none" stroke="#a9cbae" stroke-width="1.5" stroke-linecap="round" opacity=".45"/>
+    <path d="M-9 -34 C-2 -58 8 -44 4 -24 M-20 -70 C-14 -98 -2 -82 -6 -57 M8 -52 C18 -76 26 -58 21 -36 M-28 -112 C-22 -134 -13 -124 -16 -102 M14 -104 C23 -125 31 -112 27 -90" stroke="#a9cbae" stroke-width="3" fill="none" opacity=".55"/><ellipse cx="-30" cy="-66" rx="9" ry="21" transform="rotate(-24 -30 -66)" fill="#234b38" opacity=".45"/><ellipse cx="30" cy="-92" rx="8" ry="19" transform="rotate(25 30 -92)" fill="#234b38" opacity=".45"/>
+  </g>
+  
+  <g>
+    <path d="M312 448 H488 L474 566 Q472 580 458 580 H342 Q328 580 326 566 Z" fill="url(#potBody)" stroke="#6c7f6b" stroke-width="3"/>
+    <rect x="296" y="428" width="208" height="36" rx="18" fill="#aebfa9" stroke="#6c7f6b" stroke-width="3"/>
+    <rect x="306" y="433" width="188" height="9" rx="4.5" fill="#cbd8c4" opacity=".55"/>
+    <ellipse cx="400" cy="446" rx="88" ry="12" fill="#3f3a2f"/>
+    <path d="M340 490 q-10 35 12 59" stroke="#fff" stroke-opacity=".12" stroke-width="8" fill="none" stroke-linecap="round"/>
+  </g>
+</svg>

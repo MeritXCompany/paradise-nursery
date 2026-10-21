@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+  <title id="title">Monstera Deliciosa illustration</title>
+  <desc id="desc">A stylized botanical illustration of a Monstera Deliciosa houseplant in a terracotta pot.</desc>
+  <defs>
+    <linearGradient id="potBody" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#d98a66"/>
+      <stop offset="1" stop-color="#b9684b"/>
+    </linearGradient>
+  </defs>
+  <ellipse cx="400" cy="573" rx="168" ry="20" fill="#1c2b21" opacity=".11"/>
+  
+    <path d="M400 448 Q350 390 320 322" fill="none" stroke="#3b6b49" stroke-width="7" stroke-linecap="round"/>
+    <path d="M400 448 Q410 355 386 244" fill="none" stroke="#3b6b49" stroke-width="7" stroke-linecap="round"/>
+    <path d="M400 448 Q456 356 482 284" fill="none" stroke="#3b6b49" stroke-width="6" stroke-linecap="round"/>
+    <path d="M400 448 Q380 320 338 238" fill="none" stroke="#3b6b49" stroke-width="6" stroke-linecap="round"/>
+    <path d="M400 448 Q432 300 462 210" fill="none" stroke="#3b6b49" stroke-width="7" stroke-linecap="round"/>
+    <path d="M400 448 Q406 280 410 158" fill="none" stroke="#3b6b49" stroke-width="6" stroke-linecap="round"/>
+    <g transform="translate(320 326) rotate(-48) scale(0.8)" opacity="1">
+    <path d="M0 0 C-52 -27 -86 -83 -62 -125 C-42 -159 -8 -145 0 -114 C8 -145 42 -159 62 -125 C86 -83 52 -27 0 0Z" fill="#2f6b4d" stroke="#1d4632" stroke-width="2.2"/>
+    <path d="M0 -8 C-2 -48 1 -86 0 -114" fill="none" stroke="#1d4632" stroke-width="3" stroke-linecap="round" opacity=".85"/>
+    <path d="M-2 -34 C-17 -53 -30 -71 -41 -91 M2 -48 C16 -65 29 -81 38 -96 M-2 -65 C-12 -80 -20 -92 -27 -103 M2 -78 C11 -90 18 -99 23 -107" fill="none" stroke="#1d4632" stroke-width="1.5" stroke-linecap="round" opacity=".55"/>
+    <path d="M-48 -96 C-27 -91 -16 -84 -6 -76 M-60 -71 C-36 -67 -22 -60 -9 -50 M48 -100 C28 -94 16 -87 7 -79 M59 -75 C37 -70 23 -63 11 -52" fill="none" stroke="#1d4632" stroke-width="5" stroke-linecap="round" opacity=".9"/>
+    
+  </g>
+    <g transform="translate(482 288) rotate(44) scale(0.72)" opacity="1">
+    <path d="M0 0 C-52 -27 -86 -83 -62 -125 C-42 -159 -8 -145 0 -114 C8 -145 42 -159 62 -125 C86 -83 52 -27 0 0Z" fill="#356f50" stroke="#1d4632" stroke-width="2.2"/>
+    <path d="M0 -8 C-2 -48 1 -86 0 -114" fill="none" stroke="#1d4632" stroke-width="3" stroke-linecap="round" opacity=".85"/>
+    <path d="M-2 -34 C-17 -53 -30 -71 -41 -91 M2 -48 C16 -65 29 -81 38 -96 M-2 -65 C-12 -80 -20 -92 -27 -103 M2 -78 C11 -90 18 -99 23 -107" fill="none" stroke="#1d4632" stroke-width="1.5" stroke-linecap="round" opacity=".55"/>
+    <path d="M-48 -96 C-27 -91 -16 -84 -6 -76 M-60 -71 C-36 -67 -22 -60 -9 -50 M48 -100 C28 -94 16 -87 7 -79 M59 -75 C37 -70 23 -63 11 -52" fill="none" stroke="#1d4632" stroke-width="5" stroke-linecap="round" opacity=".9"/>
+    
+  </g>
+    <g transform="translate(338 242) rotate(-34) scale(0.86)" opacity="1">
+    <path d="M0 0 C-52 -27 -86 -83 -62 -125 C-42 -159 -8 -145 0 -114 C8 -145 42 -159 62 -125 C86 -83 52 -27 0 0Z" fill="#2c6347" stroke="#1d4632" stroke-width="2.2"/>
+    <path d="M0 -8 C-2 -48 1 -86 0 -114" fill="none" stroke="#1d4632" stroke-width="3" stroke-linecap="round" opacity=".85"/>
+    <path d="M-2 -34 C-17 -53 -30 -71 -41 -91 M2 -48 C16 -65 29 -81 38 -96 M-2 -65 C-12 -80 -20 -92 -27 -103 M2 -78 C11 -90 18 -99 23 -107" fill="none" stroke="#1d4632" stroke-width="1.5" stroke-linecap="round" opacity=".55"/>
+    <path d="M-48 -96 C-27 -91 -16 -84 -6 -76 M-60 -71 C-36 -67 -22 -60 -9 -50 M48 -100 C28 -94 16 -87 7 -79 M59 -75 C37 -70 23 -63 11 -52" fill="none" stroke="#1d4632" stroke-width="5" stroke-linecap="round" opacity=".9"/>
+    
+  </g>
+    <g transform="translate(462 214) rotate(30) scale(0.8)" opacity="1">
+    <path d="M0 0 C-52 -27 -86 -83 -62 -125 C-42 -159 -8 -145 0 -114 C8 -145 42 -159 62 -125 C86 -83 52 -27 0 0Z" fill="#34704f" stroke="#1d4632" stroke-width="2.2"/>
+    <path d="M0 -8 C-2 -48 1 -86 0 -114" fill="none" stroke="#1d4632" stroke-width="3" stroke-linecap="round" opacity=".85"/>
+    <path d="M-2 -34 C-17 -53 -30 -71 -41 -91 M2 -48 C16 -65 29 -81 38 -96 M-2 -65 C-12 -80 -20 -92 -27 -103 M2 -78 C11 -90 18 -99 23 -107" fill="none" stroke="#1d4632" stroke-width="1.5" stroke-linecap="round" opacity=".55"/>
+    <path d="M-48 -96 C-27 -91 -16 -84 -6 -76 M-60 -71 C-36 -67 -22 -60 -9 -50 M48 -100 C28 -94 16 -87 7 -79 M59 -75 C37 -70 23 -63 11 -52" fill="none" stroke="#1d4632" stroke-width="5" stroke-linecap="round" opacity=".9"/>
+    
+  </g>
+    <g transform="translate(386 248) rotate(-8) scale(1)" opacity="1">
+    <path d="M0 0 C-52 -27 -86 -83 -62 -125 C-42 -159 -8 -145 0 -114 C8 -145 42 -159 62 -125 C86 -83 52 -27 0 0Z" fill="#2f6b4d" stroke="#1d4632" stroke-width="2.2"/>
+    <path d="M0 -8 C-2 -48 1 -86 0 -114" fill="none" stroke="#1d4632" stroke-width="3" stroke-linecap="round" opacity=".85"/>
+    <path d="M-2 -34 C-17 -53 -30 -71 -41 -91 M2 -48 C16 -65 29 -81 38 -96 M-2 -65 C-12 -80 -20 -92 -27 -103 M2 -78 C11 -90 18 -99 23 -107" fill="none" stroke="#1d4632" stroke-width="1.5" stroke-linecap="round" opacity=".55"/>
+    <path d="M-48 -96 C-27 -91 -16 -84 -6 -76 M-60 -71 C-36 -67 -22 -60 -9 -50 M48 -100 C28 -94 16 -87 7 -79 M59 -75 C37 -70 23 -63 11 -52" fill="none" stroke="#1d4632" stroke-width="5" stroke-linecap="round" opacity=".9"/>
+    
+  </g>
+    <g transform="translate(410 160) rotate(5) scale(0.72)" opacity="1">
+    <path d="M0 0 C-52 -27 -86 -83 -62 -125 C-42 -159 -8 -145 0 -114 C8 -145 42 -159 62 -125 C86 -83 52 -27 0 0Z" fill="#3a7654" stroke="#1d4632" stroke-width="2.2"/>
+    <path d="M0 -8 C-2 -48 1 -86 0 -114" fill="none" stroke="#1d4632" stroke-width="3" stroke-linecap="round" opacity=".85"/>
+    <path d="M-2 -34 C-17 -53 -30 -71 -41 -91 M2 -48 C16 -65 29 -81 38 -96 M-2 -65 C-12 -80 -20 -92 -27 -103 M2 -78 C11 -90 18 -99 23 -107" fill="none" stroke="#1d4632" stroke-width="1.5" stroke-linecap="round" opacity=".55"/>
+    <path d="M-48 -96 C-27 -91 -16 -84 -6 -76 M-60 -71 C-36 -67 -22 -60 -9 -50 M48 -100 C28 -94 16 -87 7 -79 M59 -75 C37 -70 23 -63 11 -52" fill="none" stroke="#1d4632" stroke-width="5" stroke-linecap="round" opacity=".9"/>
+    
+  </g>
+  
+  <g>
+    <path d="M312 448 H488 L474 566 Q472 580 458 580 H342 Q328 580 326 566 Z" fill="url(#potBody)" stroke="#8f4b35" stroke-width="3"/>
+    <rect x="296" y="428" width="208" height="36" rx="18" fill="#d98a66" stroke="#8f4b35" stroke-width="3"/>
+    <rect x="306" y="433" width="188" height="9" rx="4.5" fill="#f0b593" opacity=".55"/>
+    <ellipse cx="400" cy="446" rx="88" ry="12" fill="#3b2a20"/>
+    <path d="M340 490 q-10 35 12 59" stroke="#fff" stroke-opacity=".12" stroke-width="8" fill="none" stroke-linecap="round"/>
+  </g>
+</svg>

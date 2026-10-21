@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="presentation">
+  <defs>
+    <filter id="paper" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency=".82" numOctaves="2" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+      <feComponentTransfer><feFuncA type="table" tableValues="0 .035"/></feComponentTransfer>
+    </filter>
+  </defs>
+  <rect width="1600" height="1000" fill="#f2ede2"/>
+  <g fill="none" stroke="#234835" stroke-linecap="round">
+    <g opacity=".1" stroke-width="2.2">
+      <path d="M-90 1030C80 800 280 700 480 748C350 930 160 1024-90 1030Z"/>
+      <path d="M110 1050C250 846 430 780 636 846C486 1002 300 1060 110 1050Z"/>
+      <path d="M-70 760C78 596 242 552 386 622C246 756 98 804-70 760Z"/>
+      <path d="M1225-60C1415 30 1528 190 1498 354C1340 272 1224 116 1225-60Z"/>
+      <path d="M1420 1020C1318 834 1340 660 1468 532C1588 700 1570 882 1420 1020Z"/>
+    </g>
+    <g transform="translate(1180 860) rotate(-18)" opacity=".11" stroke-width="2.6">
+      <path d="M0 0C-52 -27 -86 -83 -62 -125C-42 -159 -8 -145 0 -114C8 -145 42 -159 62 -125C86 -83 52 -27 0 0Z"/>
+      <path d="M0 -8C-2 -48 1 -86 0 -114"/>
+      <path d="M-46 -86C-26 -79 -14 -72 -5 -63M44 -92C26 -84 14 -76 5 -66"/>
+    </g>
+    <g transform="translate(930 190) rotate(24) scale(.8)" opacity=".09" stroke-width="3">
+      <path d="M0 0C-42 -39 -48 -108 0 -166C48 -108 42 -39 0 0Z"/>
+      <path d="M0 -8L0 -150"/>
+      <path d="M0 -50C-15 -68 -25 -84 -33 -100M0 -78C14 -95 24 -108 32 -122M0 -108C-11 -123 -20 -136 -25 -145"/>
+    </g>
+    <g opacity=".08" stroke-width="2">
+      <path d="M1230 580C1240 520 1268 470 1310 430"/>
+      <path d="M1310 430C1282 414 1262 392 1250 364M1310 430C1342 420 1368 400 1384 374M1310 430C1302 402 1304 374 1316 348M1310 430C1330 408 1356 398 1384 398"/>
+      <path d="M1276 500C1252 486 1234 466 1222 440M1276 500C1306 494 1334 478 1352 454M1276 500C1268 474 1270 446 1282 420"/>
+      <path d="M1248 548C1222 540 1198 522 1184 498M1248 548C1280 546 1312 536 1338 516"/>
+    </g>
+    <g opacity=".1" stroke-width="1.5">
+      <circle cx="1160" cy="410" r="250"/>
+      <circle cx="1160" cy="410" r="314"/>
+    </g>
+    <path d="M0 904C330 870 620 888 820 960" opacity=".08" stroke-width="1.4"/>
+  </g>
+  <rect width="1600" height="1000" filter="url(#paper)" opacity=".55"/>
+</svg>

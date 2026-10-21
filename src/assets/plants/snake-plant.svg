@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+  <title id="title">Snake Plant illustration</title>
+  <desc id="desc">A stylized botanical illustration of a Snake Plant houseplant in a terracotta pot.</desc>
+  <defs>
+    <linearGradient id="potBody" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#d98a66"/>
+      <stop offset="1" stop-color="#b9684b"/>
+    </linearGradient>
+  </defs>
+  <ellipse cx="400" cy="573" rx="168" ry="20" fill="#1c2b21" opacity=".11"/>
+  
+    <g transform="translate(374 448) rotate(-36) scale(0.92)">
+    <defs><clipPath id="snake-clip-1"><path d="M0 0 C-24 -90 -16 -230 0 -320 C16 -230 24 -90 0 0Z"/></clipPath></defs>
+    <path d="M0 0 C-24 -90 -16 -230 0 -320 C16 -230 24 -90 0 0Z" fill="#3f6e4a" stroke="#2b4e35" stroke-width="2"/>
+    <g clip-path="url(#snake-clip-1)"><path d="M-10 -52 Q0 -60 10 -52" fill="none" stroke="#b9cba0" stroke-width="7" opacity=".3"/><path d="M-15 -94 Q0 -102 15 -94" fill="none" stroke="#b9cba0" stroke-width="7" opacity=".3"/><path d="M-19 -138 Q0 -146 19 -138" fill="none" stroke="#b9cba0" stroke-width="7" opacity=".3"/><path d="M-18 -184 Q0 -192 18 -184" fill="none" stroke="#b9cba0" stroke-width="7" opacity=".3"/><path d="M-14 -228 Q0 -236 14 -228" fill="none" stroke="#b9cba0" stroke-width="7" opacity=".3"/><path d="M-9 -270 Q0 -278 9 -270" fill="none" stroke="#b9cba0" stroke-width="7" opacity=".3"/></g>
+    <path d="M0 -4 C-3 -108 0 -222 0 -310" stroke="#2b4e35" stroke-width="2.4" opacity=".4"/>
+  </g>
+    <g transform="translate(430 448) rotate(34) scale(0.96)">
+    <defs><clipPath id="snake-clip-2"><path d="M0 0 C-24 -90 -16 -230 0 -320 C16 -230 24 -90 0 0Z"/></clipPath></defs>
+    <path d="M0 0 C-24 -90 -16 -230 0 -320 C16 -230 24 -90 0 0Z" fill="#456f4b" stroke="#2b4e35" stroke-width="2"/>
+    <g clip-path="url(#snake-clip-2)"><path d="M-10 -52 Q0 -60 10 -52" fill="none" stroke="#b9cba0" stroke-width="7" opacity=".3"/><path d="M-15 -94 Q0 -102 15 -94" fill="none" stroke="#b9cba0" stroke-width="7" opacity=".3"/><path d="M-19 -138 Q0 -146 19 -138" fill="none" stroke="#b9cba0" stroke-width="7" opacity=".3"/><path d="M-18 -184 Q0 -192 18 -184" fill="none" stroke="#b9cba0" stroke-width="7" opacity=".3"/><path d="M-14 -228 Q0 -236 14 -228" fill="none" stroke="#b9cba0" stroke-width="7" opacity=".3"/><path d="M-9 -270 Q0 -278 9 -270" fill="none" stroke="#b9cba0" stroke-width="7" opacity=".3"/></g>
+    <path d="M0 -4 C-3 -108 0 -222 0 -310" stroke="#2b4e35" stroke-width="2.4" opacity=".4"/>
+  </g>
+    <g transform="translate(388 448) rotate(-20) scale(1.08)">
+    <defs><clipPath id="snake-clip-3"><path d="M0 0 C-24 -90 -16 -230 0 -320 C16 -230 24 -90 0 0Z"/></clipPath></defs>
+    <path d="M0 0 C-24 -90 -16 -230 0 -320 C16 -230 24 -90 0 0Z" fill="#4b7a51" stroke="#2b4e35" stroke-width="2"/>
+    <g clip-path="url(#snake-clip-3)"><path d="M-10 -52 Q0 -60 10 -52" fill="none" stroke="#c2d2a9" stroke-width="7" opacity=".3"/><path d="M-15 -94 Q0 -102 15 -94" fill="none" stroke="#c2d2a9" stroke-width="7" opacity=".3"/><path d="M-19 -138 Q0 -146 19 -138" fill="none" stroke="#c2d2a9" stroke-width="7" opacity=".3"/><path d="M-18 -184 Q0 -192 18 -184" fill="none" stroke="#c2d2a9" stroke-width="7" opacity=".3"/><path d="M-14 -228 Q0 -236 14 -228" fill="none" stroke="#c2d2a9" stroke-width="7" opacity=".3"/><path d="M-9 -270 Q0 -278 9 -270" fill="none" stroke="#c2d2a9" stroke-width="7" opacity=".3"/></g>
+    <path d="M0 -4 C-3 -108 0 -222 0 -310" stroke="#2b4e35" stroke-width="2.4" opacity=".4"/>
+  </g>
+    <g transform="translate(414 448) rotate(18) scale(1.02)">
+    <defs><clipPath id="snake-clip-4"><path d="M0 0 C-24 -90 -16 -230 0 -320 C16 -230 24 -90 0 0Z"/></clipPath></defs>
+    <path d="M0 0 C-24 -90 -16 -230 0 -320 C16 -230 24 -90 0 0Z" fill="#3b6746" stroke="#2b4e35" stroke-width="2"/>
+    <g clip-path="url(#snake-clip-4)"><path d="M-10 -52 Q0 -60 10 -52" fill="none" stroke="#b9cba0" stroke-width="7" opacity=".3"/><path d="M-15 -94 Q0 -102 15 -94" fill="none" stroke="#b9cba0" stroke-width="7" opacity=".3"/><path d="M-19 -138 Q0 -146 19 -138" fill="none" stroke="#b9cba0" stroke-width="7" opacity=".3"/><path d="M-18 -184 Q0 -192 18 -184" fill="none" stroke="#b9cba0" stroke-width="7" opacity=".3"/><path d="M-14 -228 Q0 -236 14 -228" fill="none" stroke="#b9cba0" stroke-width="7" opacity=".3"/><path d="M-9 -270 Q0 -278 9 -270" fill="none" stroke="#b9cba0" stroke-width="7" opacity=".3"/></g>
+    <path d="M0 -4 C-3 -108 0 -222 0 -310" stroke="#2b4e35" stroke-width="2.4" opacity=".4"/>
+  </g>
+    <g transform="translate(356 448) rotate(-52) scale(0.78)">
+    <defs><clipPath id="snake-clip-5"><path d="M0 0 C-24 -90 -16 -230 0 -320 C16 -230 24 -90 0 0Z"/></clipPath></defs>
+    <path d="M0 0 C-24 -90 -16 -230 0 -320 C16 -230 24 -90 0 0Z" fill="#4b7a51" stroke="#2b4e35" stroke-width="2"/>
+    <g clip-path="url(#snake-clip-5)"><path d="M-10 -52 Q0 -60 10 -52" fill="none" stroke="#c2d2a9" stroke-width="7" opacity=".3"/><path d="M-15 -94 Q0 -102 15 -94" fill="none" stroke="#c2d2a9" stroke-width="7" opacity=".3"/><path d="M-19 -138 Q0 -146 19 -138" fill="none" stroke="#c2d2a9" stroke-width="7" opacity=".3"/><path d="M-18 -184 Q0 -192 18 -184" fill="none" stroke="#c2d2a9" stroke-width="7" opacity=".3"/><path d="M-14 -228 Q0 -236 14 -228" fill="none" stroke="#c2d2a9" stroke-width="7" opacity=".3"/><path d="M-9 -270 Q0 -278 9 -270" fill="none" stroke="#c2d2a9" stroke-width="7" opacity=".3"/></g>
+    <path d="M0 -4 C-3 -108 0 -222 0 -310" stroke="#2b4e35" stroke-width="2.4" opacity=".4"/>
+  </g>
+    <g transform="translate(448 448) rotate(50) scale(0.74)">
+    <defs><clipPath id="snake-clip-6"><path d="M0 0 C-24 -90 -16 -230 0 -320 C16 -230 24 -90 0 0Z"/></clipPath></defs>
+    <path d="M0 0 C-24 -90 -16 -230 0 -320 C16 -230 24 -90 0 0Z" fill="#3f6e4a" stroke="#2b4e35" stroke-width="2"/>
+    <g clip-path="url(#snake-clip-6)"><path d="M-10 -52 Q0 -60 10 -52" fill="none" stroke="#b9cba0" stroke-width="7" opacity=".3"/><path d="M-15 -94 Q0 -102 15 -94" fill="none" stroke="#b9cba0" stroke-width="7" opacity=".3"/><path d="M-19 -138 Q0 -146 19 -138" fill="none" stroke="#b9cba0" stroke-width="7" opacity=".3"/><path d="M-18 -184 Q0 -192 18 -184" fill="none" stroke="#b9cba0" stroke-width="7" opacity=".3"/><path d="M-14 -228 Q0 -236 14 -228" fill="none" stroke="#b9cba0" stroke-width="7" opacity=".3"/><path d="M-9 -270 Q0 -278 9 -270" fill="none" stroke="#b9cba0" stroke-width="7" opacity=".3"/></g>
+    <path d="M0 -4 C-3 -108 0 -222 0 -310" stroke="#2b4e35" stroke-width="2.4" opacity=".4"/>
+  </g>
+    <g transform="translate(400 448) rotate(2) scale(0.86)">
+    <defs><clipPath id="snake-clip-7"><path d="M0 0 C-24 -90 -16 -230 0 -320 C16 -230 24 -90 0 0Z"/></clipPath></defs>
+    <path d="M0 0 C-24 -90 -16 -230 0 -320 C16 -230 24 -90 0 0Z" fill="#547f56" stroke="#2b4e35" stroke-width="2"/>
+    <g clip-path="url(#snake-clip-7)"><path d="M-10 -52 Q0 -60 10 -52" fill="none" stroke="#c2d2a9" stroke-width="7" opacity=".3"/><path d="M-15 -94 Q0 -102 15 -94" fill="none" stroke="#c2d2a9" stroke-width="7" opacity=".3"/><path d="M-19 -138 Q0 -146 19 -138" fill="none" stroke="#c2d2a9" stroke-width="7" opacity=".3"/><path d="M-18 -184 Q0 -192 18 -184" fill="none" stroke="#c2d2a9" stroke-width="7" opacity=".3"/><path d="M-14 -228 Q0 -236 14 -228" fill="none" stroke="#c2d2a9" stroke-width="7" opacity=".3"/><path d="M-9 -270 Q0 -278 9 -270" fill="none" stroke="#c2d2a9" stroke-width="7" opacity=".3"/></g>
+    <path d="M0 -4 C-3 -108 0 -222 0 -310" stroke="#2b4e35" stroke-width="2.4" opacity=".4"/>
+  </g>
+  
+  <g>
+    <path d="M312 448 H488 L474 566 Q472 580 458 580 H342 Q328 580 326 566 Z" fill="url(#potBody)" stroke="#8f4b35" stroke-width="3"/>
+    <rect x="296" y="428" width="208" height="36" rx="18" fill="#d98a66" stroke="#8f4b35" stroke-width="3"/>
+    <rect x="306" y="433" width="188" height="9" rx="4.5" fill="#f0b593" opacity=".55"/>
+    <ellipse cx="400" cy="446" rx="88" ry="12" fill="#3b2a20"/>
+    <path d="M340 490 q-10 35 12 59" stroke="#fff" stroke-opacity=".12" stroke-width="8" fill="none" stroke-linecap="round"/>
+  </g>
+</svg>
